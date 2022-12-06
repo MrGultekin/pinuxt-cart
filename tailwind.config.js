@@ -7,6 +7,10 @@ module.exports = {
                 'primary': '#270A4B',
                 'secondary': '#E8C36D',
                 'dark': '#110734',
+            },
+            fontFamily: {
+                'sans': ['VT323'],
+                // 'sans': ['VT323','Inter', 'sans-serif'],
             }
         },
     },
