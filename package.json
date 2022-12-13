@@ -12,6 +12,7 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
+    "@pinia/nuxt": "^0.4.6",
     "json-server": "^0.17.1"
   }
 }
