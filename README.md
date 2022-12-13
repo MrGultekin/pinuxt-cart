@@ -9,6 +9,12 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 Make sure to install the dependencies:
 
 ```bash
+#Run server First
+json-server --watch -p 4000 ./data/db.json
+#Run client
+npm run dev
+
+
 # yarn
 yarn install
 
