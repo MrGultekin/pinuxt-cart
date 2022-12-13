@@ -10,7 +10,7 @@
     {
       "title": "Poison Hammer",
       "price": 100,
-      "description": "Hammer infused with posion gem magic.",
+      "description": "Hammer infused with poison gem magic.",
       "img": "/img/hammer.png",
       "id": 2
     },
