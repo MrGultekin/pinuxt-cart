@@ -20,6 +20,12 @@
 </template>
 
 <script setup>
+// import {useCartStore} from "~/stores/cartStore";
+import {useCartStore} from "@/stores/cartStore";
+
+const cartStore = useCartStore()
+cartStore.getCart() // it fetches the cart from the server , updates the cart state and logs it to the console
+
 
 </script>
 
