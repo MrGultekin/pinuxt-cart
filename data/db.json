@@ -1,12 +1,12 @@
 {
   "cart": [
     {
-      "title": "Healing Herbs",
-      "price": 30,
-      "description": "Restores user back to full health.",
-      "img": "/img/herb.png",
-      "id": 8,
-      "quantity": 2
+      "title": "Poison Hammer",
+      "price": 100,
+      "description": "Hammer infused with posion gem magic.",
+      "img": "/img/hammer.png",
+      "id": 2,
+      "quantity": 3
     }
   ],
   "products": [
