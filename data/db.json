@@ -6,7 +6,47 @@
       "description": "Hammer infused with posion gem magic.",
       "img": "/img/hammer.png",
       "id": 2,
-      "quantity": 3
+      "quantity": 4
+    },
+    {
+      "title": "Lava Potion",
+      "price": 20,
+      "description": "Gain heat resistance for 3 minutes.",
+      "img": "/img/potion.png",
+      "id": 1,
+      "quantity": 5
+    },
+    {
+      "title": "Sun Shield",
+      "price": 50,
+      "description": "Shield passed down the by tribe of Ancients.",
+      "img": "/img/shield.png",
+      "id": 3,
+      "quantity": 1
+    },
+    {
+      "title": "Ring of Fortitude",
+      "price": 75,
+      "description": "Casts a magic protection barrier.",
+      "img": "/img/ring.png",
+      "id": 4,
+      "quantity": 2
+    },
+    {
+      "title": "Summoning Book",
+      "price": 200,
+      "description": "Summon the undead to aid in battle.",
+      "img": "/img/book.png",
+      "id": 6,
+      "quantity": 2
+    },
+    {
+      "title": "Healing Herbs",
+      "price": 30,
+      "description": "Restores user back to full health.",
+      "img": "/img/herb.png",
+      "id": 8,
+      "quantity": 1
     }
   ],
   "products": [

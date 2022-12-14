@@ -11,6 +11,11 @@ export const useCartStore = defineStore('cart', {
                 return total + (item.price * item.quantity)
             }, 0)
         },
+        numberOfItems() {
+            return this.cart.reduce((total, currentItem) => {
+                return total + currentItem.quantity
+            }, 0)
+        }
     },
     actions: {
         async getCart() {
