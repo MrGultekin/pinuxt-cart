@@ -7,10 +7,14 @@
       <div v-for="product in cartStore.cart" :key="product.id" class="flex gap-8 items-center">
         <img :src="product.img" :alt="product.title">
         <p class="text-white">{{ product.title }}</p>
+
+        <!-- product quantity -->
+        <ProductQuantity :product="product" />
+
         <p class="text-white">{{ product.price * product.quantity }} Silver coins.</p>
 
         <!-- delete -->
-        <button @click="cartStore.deleteFromCart(product)" class="ml-auto" >
+        <button @click="cartStore.deleteFromCart(product)" class="ml-auto">
           <span class="material-icons-outlined text-white">delete</span>
         </button>
 
