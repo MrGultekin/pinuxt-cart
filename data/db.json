@@ -1,19 +1,11 @@
 {
   "cart": [
     {
-      "title": "Healing Crystal",
+      "title": "Healing Herbs",
       "price": 30,
-      "description": "Makes the owner immune to poison.",
-      "img": "/img/crystal.png",
-      "id": 7,
-      "quantity": 2
-    },
-    {
-      "title": "Exploding Gem",
-      "price": 50,
-      "description": "Throw at the ground to explode.",
-      "img": "/img/gem.png",
-      "id": 10,
+      "description": "Restores user back to full health.",
+      "img": "/img/herb.png",
+      "id": 8,
       "quantity": 2
     }
   ],
