@@ -11,18 +11,14 @@ Make sure to install the dependencies:
 ```bash
 #Run server First
 json-server --watch -p 4000 ./data/db.json
-#Run client
+#Run client After json-server
 npm run dev
-
 
 # yarn
 yarn install
 
 # npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
 ## Development Server
