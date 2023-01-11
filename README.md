@@ -3,6 +3,7 @@
 # Lets hava e build piNuxt 3
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+https://user-images.githubusercontent.com/66912057/211788480-b1bad56d-75ff-4d4b-a96a-4d0ef924e0c8.mov
 
 ## Setup
 
